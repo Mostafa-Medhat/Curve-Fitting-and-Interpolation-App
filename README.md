@@ -11,4 +11,7 @@ Develop an application that illustrates the efficacy of different curve fitting 
 #### Before Fitting:
 ![Before Fitting](https://github.com/user-attachments/assets/29fdd395-6207-4f1c-9208-f52d8b47a74a)
 #### After Fitting:
+  - After selecting the number of chunks and the order of the fitting polynomial, The fitting result is displayed in dotted line above the original signal graph.
+  - A table containing the fitting equations is shown below the signal graph and the error map as well.
+
 ![After Fitting](https://github.com/user-attachments/assets/2ec50075-1dc8-442c-a867-e78ae6928fc2)
